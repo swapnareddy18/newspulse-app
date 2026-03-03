@@ -35,7 +35,7 @@ It fetches real-time news data from an external REST API and dynamically display
 
 ## 🌐 Live Demo
 
-(To be updated after deployment)
+https://swapnareddy18.github.io/newspulse-app/
 
 ---
 
